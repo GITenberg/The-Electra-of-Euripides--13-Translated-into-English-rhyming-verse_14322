@@ -25,6 +25,8 @@ creator:
     - http://en.wikipedia.org/wiki/Euripides
     - http://el.wikipedia.org/wiki/%CE%95%CF%85%CF%81%CE%B9%CF%80%CE%AF%CE%B4%CE%B7%CF%82
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14322#The-Electra-of-Euripides--13-Translated-into-English-rhyming-verse
 gutenberg_bookshelf: Classical Antiquity
 gutenberg_issued: '2004-12-10'
 gutenberg_type: Text
